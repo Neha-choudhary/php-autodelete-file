@@ -4,7 +4,9 @@ How to use:
 - Save the autodelete.php file in the root directory.
 - On cPanel open the CronJob menu.
 - Set the common settings of cronjob.<br>
-Minute : 0, Hour : 0, Day : *, Month : *, Weekday : 0</b>
+````
+Minute : 0, Hour : 0, Day : *, Month : *, Weekday : 0
+````
 - Then enter the following Command.<br>
 ```
 /usr/local/bin/php /home/yourname/public_html/autodelete.php
