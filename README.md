@@ -2,7 +2,7 @@
 How to use:
 - Set up database connection.
 - Save the autodelete.php file in the root directory.
-- On CPanel open the CronJob menu.
+- On cPanel open the CronJob menu.
 - Enter the following Command.<br>
 ```
 /usr/local/bin/php /home/yourname/public_html/autodelete.php
