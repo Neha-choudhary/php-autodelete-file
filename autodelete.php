@@ -6,7 +6,7 @@
     $databaseHost = 'localhost';
     $databaseName = 'autodelete';
     $databaseUsername = 'root';
-    $databasePassword = 'teknowebapp';
+    $databasePassword = '';
 
     $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
 
